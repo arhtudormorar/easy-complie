@@ -40,6 +40,7 @@ Easily work with LESS/SASS/SCSS/TYPESCRIPT files in Visual Studio Code.
 
     ```less
     // out: ../dist/app.css, compress: true, sourceMap: false, autoprefixer: last 5 versions, groupmedia: true
+    // main: ../main.css
     
     body, html {
         ...
